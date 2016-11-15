@@ -1,0 +1,4 @@
+comment = 'jsonb_delete(jsonb,text[]) operator'
+default_version = '1.0'
+module_pathname = '$libdir/jsonb_delete_array'
+relocatable = true
